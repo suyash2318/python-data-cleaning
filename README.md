@@ -1,4 +1,4 @@
-# python-data-cleaning
+# SuyashMaheshwari_JECRC(College)_Week1_python-data-cleaning
 
 This project demonstrates basic data exploration and cleaning using Python Pandas.
 
